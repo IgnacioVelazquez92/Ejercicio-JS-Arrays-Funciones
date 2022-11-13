@@ -14,4 +14,4 @@ par o impar. Mostrar por pantalla el resultado devuelto por la función.
 
 // }
 
-// detalle(parseInt(prompt("Ingresa un numero por favor")))
+// detalle(parseInt(prompt("Ingresa un número por favor")))
