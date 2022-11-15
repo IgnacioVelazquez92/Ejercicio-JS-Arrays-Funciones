@@ -2,4 +2,6 @@
 año. Mostrar por pantalla en forma de lista los doce nombres del arreglo*/
 
 // let meses = ["enero", "febrero" , "marzo", "abril" , "mayo", "junio" , "julio" , "agosto", "septiembre" , "octubre" , "noviembre", "diciembre"]
-// console.log(meses)
+// const nuevoMeses = meses.map((mes)=>{
+//   document.write(`${mes} <br>`)
+// })
